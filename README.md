@@ -79,7 +79,6 @@ Contact
 
 Email: sah65@njit.edu
 LinkedIn: Sanim Abrar Hossain
-GitHub: Your GitHub Profile
 
 Support
 
